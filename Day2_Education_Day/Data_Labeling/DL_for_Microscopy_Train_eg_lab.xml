@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>180806</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-06-05 06:12:35.322710+00:00</created>
+      <updated>2023-06-05 06:18:04.337643+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>180806</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/180806</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tommycwong</username>
+        <email>cwong13@vols.utk.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Bubble</name>
+          <color>#61b21f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-06-05 06:21:27.993077+00:00</dumped>
+  </meta>
+  <image id="0" name="DL_for_Microscopy_Train_eg_img.png" width="512" height="512">
+    <ellipse label="Bubble" source="manual" occluded="0" cx="291.95" cy="334.99" rx="32.35" ry="30.94" z_order="0">
+    </ellipse>
+    <polygon label="Bubble" source="manual" occluded="0" points="282.22,131.08;289.47,135.54;295.61,142.23;300.07,149.48;304.53,157.29;309.55,164.54;309.55,173.47;305.65,181.27;300.63,189.08;294.49,195.22;287.80,201.35;280.55,206.93;273.30,212.51;265.49,215.85;256.57,216.97;248.20,214.74;240.95,209.16;233.70,204.14;227.57,198.01;222.55,190.76;219.76,182.39;218.08,174.02;216.41,165.66;217.53,157.29;221.99,150.04;228.12,143.91;234.26,137.21;242.07,133.31;250.43,129.96;258.80,126.62;267.72,126.62" z_order="0">
+    </polygon>
+  </image>
+</annotations>
