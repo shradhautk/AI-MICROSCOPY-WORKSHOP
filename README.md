@@ -1,5 +1,5 @@
 # AI-MICROSCOPY-WORKSHOP
-Jupyter notebooks to be used in AI MICROSCOPY WORKSHOP AT UTK
+Jupyter notebooks to be used in [AI MICROSCOPY WORKSHOP AT UTK](https://microscopyai.utk.edu/)
 
 In Day2_Education_Day:
 - CNN_tutorial - U-Net and Mask R-CNN notebooks, data
